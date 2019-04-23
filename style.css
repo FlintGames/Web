@@ -1,1 +1,1 @@
-#login-page #header .logo img { visibility: hidden; height: 500px; }
+#login-page #header .logo img, .brand-name img { visibility: hidden; }
